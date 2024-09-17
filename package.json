@@ -1,0 +1,8 @@
+{
+  "name": "MemoryGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DevSaLLein/MemoryGame.git",
+  "author": "DevSaLLein <isaac.andrade3@aluno.ce.gov.br>",
+  "license": "MIT"
+}
